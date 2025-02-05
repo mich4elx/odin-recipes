@@ -1,0 +1,49 @@
+body{
+    background-color: gainsboro;
+}
+
+h1{
+    color: mediumaquamarine;
+    background-color: #FFF99C;
+    width: 800px;
+    border: 2px solid black;
+    padding: 8px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+h3 {
+    color: mediumaquamarine;
+    border: 1px solid black;
+    width: fit-content;
+    padding: 4px 48px;
+    margin-top: 48px;
+}
+
+ul{
+    background-color: gainsboro;
+    width: fit-content;
+    padding: 24px;
+}
+
+ol{
+    background-color: gainsboro;
+    width: fit-content;
+    padding: 24px;
+}
+
+.content{
+    margin: 24px;
+    background-color: #FFF99C;
+    padding: 24px;
+}
+
+a{
+    color: mediumaquamarine;
+}
+
+.img{
+    padding: 12px;
+    text-align: center;
+}
